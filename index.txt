@@ -1,0 +1,8 @@
+<html>
+<head> <h1> Hello </h1>
+</head> 
+<title> Hello
+</title>
+<body> Hello world welcome to the world of git hub static web pages </p>
+</body>
+</html>
